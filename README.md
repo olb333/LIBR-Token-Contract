@@ -104,7 +104,7 @@ Use as funções de leitura pública para monitorar o estado do contrato em temp
 | :--- | :--- |
 | *Endereço do Contrato (Polygon)* | 0xDE67aCA04983EF6156e287FEf5Cd8C7Ab79f6157 |
 | *Website Oficial* | https://ordemlibertariabrasil.org |
-| *Polygonscan* | [(https://polygonscan.com/token/0xDE67aCA04983EF6156e287FEf5Cd8C7Ab79f6157) |
+| *Polygonscan* | https://polygonscan.com/address/0xDE67aCA04983EF6156e287FEf5Cd8C7Ab79f6157 |
 | *GitHub do Contrato* | https://github.com/olb333/LIBR-Token-Contract |
 | *Comunidade (Twitter/Discord)* | https://x.com/olboficiall \| https://discord.gg/TkmC4zsU8j |
 
